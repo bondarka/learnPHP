@@ -1,0 +1,36 @@
+h2{
+    font-size:20px;
+    font-weight: 400;
+    color:green;
+}
+.list-surname,.list-stars,.list-mark,.list{
+    max-width:420px;
+    padding: 5px;
+}
+.list-surname,.list{
+    border:1px solid red;
+    background-color: #f0f8ff;
+}
+.list-surname li,.list-stars li,.list-mark li,.list li{
+    margin: 5px;
+    list-style-type: none;
+}
+
+.list-stars{
+    border:1px solid green;
+    background-color: #77ffff;
+}
+
+.list-mark{
+    border:1px solid purple;
+    background-color: #faebd7;
+}
+.header-table{
+    background-color: #f0ffff;
+}
+.header-table th,.body-table td{
+    padding: 10px;
+}
+.body-table td{
+    background-color: #faebd7;
+}
